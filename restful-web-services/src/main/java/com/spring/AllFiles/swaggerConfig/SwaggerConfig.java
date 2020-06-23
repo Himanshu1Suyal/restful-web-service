@@ -1,3 +1,5 @@
+//Swagger and hateos have different versions
+
 package com.spring.AllFiles.swaggerConfig;
 
 import java.time.LocalDate;
